@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+}
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+#result{
+    font-size: larger;
+    color: aqua;
+}
